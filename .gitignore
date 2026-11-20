@@ -1,0 +1,6 @@
+/target
+# Ignore all .env files
+.env*
+
+# Except for the template file
+!.env.example
